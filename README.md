@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF1_72310027_ALIMENTACION_BOVINA/](https://ecored-sena.github.io/CF1_72310027_ALIMENTACION_BOVINA/)
 
 #
 
