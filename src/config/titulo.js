@@ -1,1 +1,2 @@
-module.exports = 'NOMBRE DEL COMPONENTE FORMATIVO'
+module.exports =
+  'Sistema digestivo, requerimientos nutricionales de bovinos y pastoreo'
