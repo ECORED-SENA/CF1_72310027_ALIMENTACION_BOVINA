@@ -70,7 +70,7 @@
   height: 75%
   top: 25%
   border-radius: 4px
-  background-color: #FF7C32
+  background-color: #F5C87F
 .banner-principal p, .banner-principal h1, .banner-principal h2, .banner-principal h3, .banner-principal h4, .banner-principal h5, .banner-principal h6
   color: #12263F !important
 .banner-interno__titulo h1, .banner-interno__titulo h2, .banner-interno__titulo h3, .banner-interno__titulo h4, .banner-interno__titulo h5, .banner-interno__titulo h6
@@ -85,9 +85,9 @@
   color: #fff
 
 .acordion .tarjeta
-  background-color: #CAE1F9
+  background-color: #DAE0DA
 .acordion .tarjeta.acordion__activo
-  background-color: #FEECE6
+  background-color: #FBE9CC
 .acordion .tarjeta.acordion__activo *
   color: #12263F
 .acordion__accion__btn--a
@@ -135,5 +135,34 @@
   .cont_decorativo:before
     height: 100%
     top: 0
+  
+/*****************Tema 1****************/
+.cont_1_1, .cont_1_1 *
+  position: relative
+.cont_1_1:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: 110%
+  left: -8%
+  top: -5%
+  background: url(../assets/curso/tema1/19.png)
+  background-size: 100% 100%
+
+.cont_1_2, .cont_1_2 *
+  position: relative
+.cont_1_2:before
+  position: absolute
+  content: ''
+  width: 115%
+  height: 100%
+  left: -8%
+  top: 0
+  background: rgb(255,255,255)
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(239,250,244,1) 20%, rgba(239,250,244,1) 80%, rgba(255,255,255,0) 100%)
+
+@media screen and (max-width: 992px)
+  .cont_1_1:before
+    background-size: cover !important
 
 
