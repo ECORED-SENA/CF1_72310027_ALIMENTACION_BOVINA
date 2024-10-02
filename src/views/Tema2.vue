@@ -250,63 +250,63 @@
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Calcio (Ca) 
-              p Ayuda a la formación de huesos y dientes. Contribuye a la producción de leche. Interviene en la permeabilidad de la pared celular. Deficiencias: Bajo crecimiento, baja producción, retraso de la pubertad. 
+              p Ayuda a la formación de huesos y dientes. Contribuye a la producción de leche. Interviene en la permeabilidad de la pared celular. Deficiencias: bajo crecimiento, baja producción, retraso de la pubertad. 
               h4.mt-4 Fósforo (P) 
-              p Participa en la obtención de energía. Ayuda en la formación de dientes y huesos. Deficiencias: Bajo crecimiento, baja producción, quistes foliculares, bajo libido. 
+              p Participa en la obtención de energía. Ayuda en la formación de dientes y huesos. Deficiencias: bajo crecimiento, baja producción, quistes foliculares, bajo libido. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/26.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Magnesio (Mg)
-              p Favorece el desarrollo esquelético. Actúa como activador enzimático. Deficiencias: Tetania hipomagnesémica, baja producción láctea, retención de placenta. 
+              p Favorece el desarrollo esquelético. Actúa como activador enzimático. Deficiencias: tetania hipomagnesémica, baja producción láctea, retención de placenta. 
               h4.mt-4 Azufre (S) 
-              p Forma parte de aminoácidos azufrados. Ayuda a la síntesis de proteínas microbiales. Interviene en la respiración y los tejidos. Deficiencias: Acumulación de ácido láctico, baja producción láctea.  
+              p Forma parte de aminoácidos azufrados. Ayuda a la síntesis de proteínas microbiales. Interviene en la respiración y los tejidos. Deficiencias: acumulación de ácido láctico, baja producción láctea.  
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/27.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Zinc (Zn) 
-              p Funciona en el sistema inmune (producción de linfocitos). Es cofactor enzimático. Deficiencias: Alopecia, dermatitis, bajo crecimiento, problemas podales, bajo porcentaje de gestación. 
+              p Funciona en el sistema inmune (producción de linfocitos). Es cofactor enzimático. Deficiencias: alopecia, dermatitis, bajo crecimiento, problemas podales, bajo porcentaje de gestación. 
               h4.mt-4 Cobre (Cu) 
-              p Cofactor enzimático. Síntesis de hemoglobina. Deficiencias: Bajo porcentaje de gestación, abortos, mortalidad embrionaria, anemia, pérdida de color del pelo.  
+              p Cofactor enzimático. Síntesis de hemoglobina. Deficiencias: bajo porcentaje de gestación, abortos, mortalidad embrionaria, anemia, pérdida de color del pelo.  
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/28.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Yodo (I) 
-              p Esencial para la tiroides. Deficiencias: Coto, abortos, reabsorción fetal, bajo libido, baja calidad seminal, mortalidad embrionaria, retención de placenta. 
+              p Esencial para la tiroides. Deficiencias: coto, abortos, reabsorción fetal, bajo libido, baja calidad seminal, mortalidad embrionaria, retención de placenta. 
               h4.mt-4 Fósforo (P) 
-              p Participa en la obtención de energía. Ayuda en la formación de dientes y huesos. Deficiencias: Bajo crecimiento, baja producción, quistes foliculares, bajo libido. 
+              p Participa en la obtención de energía. Ayuda en la formación de dientes y huesos. Deficiencias: bajo crecimiento, baja producción, quistes foliculares, bajo libido. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/29.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Cobalto (Co) 
-              p Participa en la síntesis de vitamina B12. Favorece el crecimiento de bacterias en el rumen. Deficiencias: Anemia, pérdida de apetito, baja producción de leche, involución uterina. 
+              p Participa en la síntesis de vitamina B12. Favorece el crecimiento de bacterias en el rumen. Deficiencias: anemia, pérdida de apetito, baja producción de leche, involución uterina. 
               h4.mt-4 Selenio (Se) 
-              p Asociado a la vitamina E. Protección de tejidos contra procesos oxidativos. Deficiencias: Enfermedad de músculos blandos, retención de placenta, abortos, mortalidad embrionaria. 
+              p Asociado a la vitamina E. Protección de tejidos contra procesos oxidativos. Deficiencias: enfermedad de músculos blandos, retención de placenta, abortos, mortalidad embrionaria. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/30.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Hierro (Fe) 
-              p Participa en la respiración celular. Forma parte de la hemoglobina y mioglobina. Deficiencias: Anemia, quistes foliculares, alteraciones estrales, diarrea, acidosis metabólica. 
+              p Participa en la respiración celular. Forma parte de la hemoglobina y mioglobina. Deficiencias: anemia, quistes foliculares, alteraciones estrales, diarrea, acidosis metabólica. 
               h4.mt-4 Potasio (K) 
-              p Regula el balance ácido-base. Equilibra el agua corporal. Interviene en la transmisión de impulsos nerviosos. Deficiencias: Pérdida de peso, crecimiento retardado, desorden nervioso.  
+              p Regula el balance ácido-base. Equilibra el agua corporal. Interviene en la transmisión de impulsos nerviosos. Deficiencias: pérdida de peso, crecimiento retardado, desorden nervioso.  
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/31.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Manganeso (Mn) 
-              p Participa en el metabolismo de carbohidratos. Deficiencias: Quistes, bajo porcentaje de gestación, abortos, descendencia defectuosa. 
+              p Participa en el metabolismo de carbohidratos. Deficiencias: quistes, bajo porcentaje de gestación, abortos, descendencia defectuosa. 
               h4.mt-4 Sodio (Na) 
-              p Principal catión extracelular. Regula el balance ácido-base y la permeabilidad celular. Deficiencias: Apetito insaciable por sal, retención de líquidos, baja calidad del semen. 
+              p Principal catión extracelular. Regula el balance ácido-base y la permeabilidad celular. Deficiencias: apetito insaciable por sal, retención de líquidos, baja calidad del semen. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/32.png')

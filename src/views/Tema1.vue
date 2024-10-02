@@ -153,7 +153,7 @@
               figure
                 img(src="@/assets/curso/tema1/17.svg" style="max-width:90px;display:inline;")
               h5.mb-0.fw-bold.mt-3 Abomaso
-        p.mb-0(style="position:relative;z-index:2;") La siguiente figura se presenta detalladamente la morfología del sistema digestivo de los bovinos rumiantes. En ella se observa el esófago, que se conecta con el rumen, y este, a su vez, con los demás compartimientos hasta llegar al intestino delgado.
+        p.mb-0(style="position:relative;z-index:2;") La siguiente figura presenta detalladamente la morfología del sistema digestivo de los bovinos rumiantes. En ella se observa el esófago, que se conecta con el rumen, y este, a su vez, con los demás compartimientos hasta llegar al intestino delgado.
       .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/18.png")
@@ -179,7 +179,7 @@
           .row.col-xl-11.m-auto(titulo="Faringe y esófago")
             p La faringe conecta la boca con las vías respiratorias y el esófago. El esófago es el conducto por el que los alimentos transitan hacia el estómago. La deglución y la regurgitación son procesos asociados con estos órganos.
           .row.col-xl-11.m-auto(titulo="Rumen")
-            p El rumen es el primer y mayor compartimiento del estómago. Puede contener entre 100 y 120 kg de materia en digestión. Aquí, microorganismos descomponen la fibra, liberando ácidos grasos que se utilizan como energía, representando hasta el 80% de la energía total del animal.
+            p El rumen es el primer y mayor compartimiento del estómago. Puede contener entre 100 y 120 kg de materia en digestión. Aquí, microorganismos descomponen la fibra, liberando ácidos grasos que se utilizan como energía, representando hasta el 80 % de la energía total del animal.
           .row.col-xl-11.m-auto(titulo="Retículo")
             p El retículo es el segundo compartimiento del estómago. Es el más pequeño y comparte su contenido con el rumen. Filtra partículas pequeñas y permite el paso solo a las menores de 2 mm. Junto con el rumen, forman el retículo-rumen.
     

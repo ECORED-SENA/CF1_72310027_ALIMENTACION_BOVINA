@@ -65,7 +65,7 @@
             span.h5.text-white.p-1.ps-3.pe-3(style="background-color:#456345;") Alteración del equilibrio natural
             p.mb-0.mt-3 El pisoteo y la pérdida de hojas provocan cambios en la composición de las especies forrajeras.
     
-    p.mt-4(data-aos="fade-up") Dado los efectos negativos del ganado en el terreno, se han desarrollado distintos sistemas de pastoreo, cada uno adaptado a diferentes condiciones de terreno y ganado, buscando siempre el mejor aprovechamiento del forraje y minimizando los impactos negativos en el suelo.
+    p.mt-4(data-aos="fade-up") Dados los efectos negativos del ganado en el terreno, se han desarrollado distintos sistemas de pastoreo, cada uno adaptado a diferentes condiciones de terreno y ganado, buscando siempre el mejor aprovechamiento del forraje y minimizando los impactos negativos en el suelo.
 
     .cont_decorativo.mb-4.mt-5(data-aos="fade-right")
       .row
