@@ -229,7 +229,7 @@
             figure.mb-4
               img(src="@/assets/curso/tema2/23.svg" style="max-width:90px;display:inline;")
             span.h5.text-white.p-1.ps-3.pe-3(style="background-color:#456345;") Vitamina D
-            p.mb-0.mt-3 La deficiencia de esta vitamina en bovinos en crecimiento puede producir raquitismo. Puede sintetizarse en la piel del animal cuando este es expuesto al sol. Las vacas lecheras criadas en condiciones de poca luz solar deben recibir entre 5000 y 6000 UI (unidades internacionales).
+            p.mb-0.mt-3 La deficiencia de esta vitamina en bovinos en crecimiento puede producir raquitismo. Puede sintetizarse en la piel del animal cuando este es expuesto al sol. Las vacas lecheras criadas en condiciones de poca luz solar deben recibir entre 5000 y 6000 UI (Unidades Internacionales).
         .col-lg.d-none.d-lg-block(data-aos="fade-left")
           figure 
             img(src="@/assets/curso/tema2/24.png")
@@ -278,8 +278,7 @@
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Yodo (I) 
               p Esencial para la tiroides. Deficiencias: coto, abortos, reabsorción fetal, bajo libido, baja calidad seminal, mortalidad embrionaria, retención de placenta. 
-              h4.mt-4 Fósforo (P) 
-              p Participa en la obtención de energía. Ayuda en la formación de dientes y huesos. Deficiencias: bajo crecimiento, baja producción, quistes foliculares, bajo libido. 
+
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/29.png')

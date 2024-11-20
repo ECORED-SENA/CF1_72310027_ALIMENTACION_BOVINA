@@ -114,14 +114,14 @@ export default {
     {
       tema: 'Ganado bovino ',
       referencia:
-        'TvAgro (2024).Características del ganado bovino comercial - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] Youtube.   ',
+        'TvAgro (2024).Características del ganado bovino comercial - TvAgro por Juan Gonzalo Angel Restrepo. [Archivo de video] YouTube.   ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=poXTQMJihqs  ',
     },
     {
       tema: 'Sistema digestivo de los bovinos ',
       referencia:
-        'TvAgro. (2016).Cómo funciona el sistema digestivo de los Rumiantes - TvAgro por Juan Gonzalo Angel. [Archivo de video] Youtube.   ',
+        'TvAgro. (2016).Cómo funciona el sistema digestivo de los Rumiantes - TvAgro por Juan Gonzalo Angel. [Archivo de video] YouTube.   ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=PjW00pyrgRI  ',
     },
@@ -143,7 +143,7 @@ export default {
     {
       tema: 'Sistemas de pastoreo ',
       referencia:
-        'Interés Agronómico. (2022). Pastoreo rotacional - Principios básicos. [Archivo de video] Youtube.   ',
+        'Interés Agronómico. (2022). Pastoreo rotacional - Principios básicos. [Archivo de video] YouTube.   ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=_igtBYf0CMY  ',
     },
@@ -204,8 +204,6 @@ export default {
     {
       referencia:
         'Arango Nieto, L. (2012).<em>Ganadería bovina en América Latina:</em>( ed.). D - FAO.',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/66078 ',
     },
     {
       referencia:
