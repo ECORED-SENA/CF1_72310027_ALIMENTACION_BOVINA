@@ -278,43 +278,36 @@
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
               h4 Yodo (I) 
               p Esencial para la tiroides. Deficiencias: coto, abortos, reabsorción fetal, bajo libido, baja calidad seminal, mortalidad embrionaria, retención de placenta. 
-
+              h4 Cobalto (Co) 
+              p Participa en la síntesis de vitamina B12. Favorece el crecimiento de bacterias en el rumen. Deficiencias: anemia, pérdida de apetito, baja producción de leche, involución uterina. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/29.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-              h4 Cobalto (Co) 
-              p Participa en la síntesis de vitamina B12. Favorece el crecimiento de bacterias en el rumen. Deficiencias: anemia, pérdida de apetito, baja producción de leche, involución uterina. 
               h4.mt-4 Selenio (Se) 
               p Asociado a la vitamina E. Protección de tejidos contra procesos oxidativos. Deficiencias: enfermedad de músculos blandos, retención de placenta, abortos, mortalidad embrionaria. 
+              h4 Hierro (Fe) 
+              p Participa en la respiración celular. Forma parte de la hemoglobina y mioglobina. Deficiencias: anemia, quistes foliculares, alteraciones estrales, diarrea, acidosis metabólica. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/30.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-              h4 Hierro (Fe) 
-              p Participa en la respiración celular. Forma parte de la hemoglobina y mioglobina. Deficiencias: anemia, quistes foliculares, alteraciones estrales, diarrea, acidosis metabólica. 
               h4.mt-4 Potasio (K) 
               p Regula el balance ácido-base. Equilibra el agua corporal. Interviene en la transmisión de impulsos nerviosos. Deficiencias: pérdida de peso, crecimiento retardado, desorden nervioso.  
+              h4 Manganeso (Mn) 
+              p Participa en el metabolismo de carbohidratos. Deficiencias: quistes, bajo porcentaje de gestación, abortos, descendencia defectuosa.               
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/31.png')
           .row.pt-lg-4
             .col-lg-7.mb-4.mb-lg-0(style="place-self:center;")
-              h4 Manganeso (Mn) 
-              p Participa en el metabolismo de carbohidratos. Deficiencias: quistes, bajo porcentaje de gestación, abortos, descendencia defectuosa. 
               h4.mt-4 Sodio (Na) 
               p Principal catión extracelular. Regula el balance ácido-base y la permeabilidad celular. Deficiencias: apetito insaciable por sal, retención de líquidos, baja calidad del semen. 
             .col-lg-5
               figure.m-auto.col-8.col-md-6.col-lg-12
                 img(src='@/assets/curso/tema2/32.png')
-
-
-
-
-
-
 
 </template>
 
